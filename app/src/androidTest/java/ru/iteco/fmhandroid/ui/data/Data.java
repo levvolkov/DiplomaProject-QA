@@ -19,7 +19,7 @@ public class Data {
     public static final String GRATITUDE_CATEGORY = "Благодарность";
     public static final String NEED_HELP_CATEGORY = "Нужна помощь";
     public static final String NEWS_TITLE_TEXT = "Издание № ";
-    public static final String DESCRIPTION_TEXT = "Эта новость создана студентом образовательной платформы 'Нетология'";
+    public static final String DESCRIPTION_TEXT = "Эта новость создана студентом образовательной платформы \"Нетология\"";
     public static final String AUTHENTICATION_ERROR_MESSAGE = "Something went wrong. Try again later.";
     public static final String EMPTY_FIELDS_ERROR_MESSAGE = "Login and password cannot be empty";
     public static final String POP_UP_ERROR_MESSAGE = "Fill empty fields"; //

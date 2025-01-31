@@ -4,17 +4,17 @@
 
 ## Тестовая документация
 
-- [План](documentation/Plan.md) по проверке и автоматизации приложения (`documentation/Plan.md`)
+- [План](documentation/Plan.md) по проверке и автоматизации приложения (`documentation/Plan.md`).
 
-- [Чек-лист](https://docs.google.com/spreadsheets/d/1tp4zuPhJCrSsRBF5NDZpXZ0Zf8EW4IJW4OcM2-sP4Pw/edit?usp=sharing) c отметками о пройденных и не пройденных тестах (`documentation/Check.xlsx`)
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1tp4zuPhJCrSsRBF5NDZpXZ0Zf8EW4IJW4OcM2-sP4Pw/edit?usp=sharing) c отметками о пройденных и не пройденных тестах (`documentation/Check.xlsx`).
 
-- [Тест-кейсы](https://docs.google.com/spreadsheets/d/14wejW8lElOt6h5sYnSTjFMKYt1W6wXHiVvCJvYb8fsU/edit?usp=sharing) для проверки приложения (`documentation/Cases.xlsx`)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/14wejW8lElOt6h5sYnSTjFMKYt1W6wXHiVvCJvYb8fsU/edit?usp=sharing) для проверки приложения (`documentation/Cases.xlsx`).
 
-- [Баг-репорты](https://github.com/levvolkov/diplomaProject-QA/issues) оформленные как (`Issues`)
+- [Баг-репорты](https://github.com/levvolkov/diplomaProject-QA/issues) оформленные как (`Issues`).
 
-- [allure-отчет](https://levvolkov.github.io/diplomaProject-QA/documentation/allure-report) с результатами прогона авто тестов онлайн, а так же запакованный в zip-архив (`documentation/allure-results.zip`)
+- [allure-отчет](https://levvolkov.github.io/diplomaProject-QA/documentation/allure-report) с результатами прогона авто-тестов, а так же запакованный в zip-архив (`documentation/allure-results.zip`).
 
-- [Отчет о тестировании](documentation/Result.md) со сравнением ручного и автоматизированного тестирования, затраченного времени, найденные проблемы (`documentation/Result.md`)
+- [Отчет о тестировании](documentation/Result.md) со сравнением ручного и автоматизированного тестирования, затраченного времени, найденные проблемы (`documentation/Result.md`).
 
 <br>
 
@@ -64,7 +64,7 @@
    # для генерации HTML-отчёта:
    allure generate allure-results -o allure-report
 
-   # открыват сгенерированный HTML-отчёт в браузере:
+   # открывает сгенерированный HTML-отчёт в браузере:
    allure open allure-report
 ```
 - Теперь вы можете просматривать результаты тестов в удобном формате Allure-отчёта.
